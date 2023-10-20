@@ -25,4 +25,4 @@ Nuestro juego está progresando muy bien, pero hay algunas cosas importantes que
 Los animales aparecerán en un intervalo de tiempo y caminarán por la pantalla, desencadenando un mensaje de «Game Over» si consiguen esquivar al jugador. Se destruirán si el jugador los golpea con un proyectil para alimentarlos.
 
 
-*( Tablero [Trello](https://trello.com/invite/b/0lQT9RcI/ATTIf418c09484e2e493e5cf59f7b6b4885aC1F6D11B/videojuego) )*
+# Tablero [Trello](https://trello.com/invite/b/0lQT9RcI/ATTIf418c09484e2e493e5cf59f7b6b4885aC1F6D11B/videojuego) 
